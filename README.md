@@ -33,15 +33,3 @@ A Small Practice of Using Special Characters in LCD! 🎨🔓
 
 
 
-
-🔗Code Link:
-
-my GitHub repository: https://github.com/Moaz71/Hamoksha.git
-
-
-
-
-
-🙏 Huge gratitude to Eng Amgad Samir for his invaluable insights and mentorship. I am looking forward to exploring more embedded systems projects in the future!
-
-#EmbeddedSystems #Microcontroller #Atmega32 #HardwareProgramming #ProjectShowcase 
